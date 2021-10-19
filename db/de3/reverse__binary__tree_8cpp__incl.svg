@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="Implementation for the Reversing a Binary Tree recursively.">
+<g id="a_node1"><a xlink:title="Implementation for the Reversing a Binary Tree recursively algorithm.">
 <polygon fill="#bfbfbf" stroke="black" points="54,-56.5 54,-86.5 203,-86.5 203,-56.5 54,-56.5"/>
 <text text-anchor="start" x="62" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">operations_on_datastructures</text>
 <text text-anchor="middle" x="128.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">/reverse_binary_tree.cpp</text>
