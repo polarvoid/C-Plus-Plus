@@ -22,7 +22,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a7ec379fc091670b01e404b05a199a325" target="_top" xlink:title="Level order traversal of a tree consists of visiting its elements, top to bottom, left to right....">
+<g id="a_node2"><a xlink:href="../../de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#a2e683b271d8d5cd63e0d09cf8aaa325c" target="_top" xlink:title="Level order traversal of a tree consists of visiting its elements, top to bottom, left to right....">
 <polygon fill="white" stroke="black" points="226,-46.5 226,-87.5 391,-87.5 391,-46.5 226,-46.5"/>
 <text text-anchor="start" x="234" y="-75.5" font-family="Helvetica,sans-Serif" font-size="10.00">operations_on_datastructures</text>
 <text text-anchor="start" x="234" y="-64.5" font-family="Helvetica,sans-Serif" font-size="10.00">::reverse_binary_tree::BinaryTree</text>
