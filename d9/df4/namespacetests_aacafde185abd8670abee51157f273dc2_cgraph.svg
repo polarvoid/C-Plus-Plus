@@ -51,10 +51,10 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../da/d6d/namespaceoperations__on__datastructures.html#a2b8ff06a84b041457873840bf82e2d74" target="_top" xlink:title="Gets the union of two sorted arrays, and returns them in a vector.">
+<g id="a_node4"><a xlink:href="../../da/d6d/namespaceoperations__on__datastructures.html#adaf9a06f0c236c2d95c97e441ea2d12e" target="_top" xlink:title="Gets the intersection of two sorted arrays, and returns them in a vector.">
 <polygon fill="white" stroke="black" points="101,-77 101,-107 250,-107 250,-77 101,-77"/>
 <text text-anchor="start" x="109" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">operations_on_datastructures</text>
-<text text-anchor="middle" x="175.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">::get_union</text>
+<text text-anchor="middle" x="175.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">::get_intersection</text>
 </a>
 </g>
 </g>
@@ -157,7 +157,7 @@
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="../../db/d93/check__prime_8cpp.html#aa18b3517017d99bb4024853bddba5532" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="../../db/d93/check__prime_8cpp.html#aa18b3517017d99bb4024853bddba5532" target="_top" xlink:title="for IO operations">
 <polygon fill="white" stroke="black" points="317.5,-0.5 317.5,-19.5 371.5,-19.5 371.5,-0.5 317.5,-0.5"/>
 <text text-anchor="middle" x="344.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">is_prime</text>
 </a>
