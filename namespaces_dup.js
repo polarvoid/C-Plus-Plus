@@ -55,6 +55,7 @@ var namespaces_dup =
     [ "bit_manipulation", "d7/d81/namespacebit__manipulation.html", null ],
     [ "caesar", "dd/d81/namespacecaesar.html", null ],
     [ "ciphers", "d6/d4e/namespaceciphers.html", "d6/d4e/namespaceciphers" ],
+    [ "circular_linked_list", "d4/dcd/namespacecircular__linked__list.html", null ],
     [ "count_of_set_bits", "dd/dae/namespacecount__of__set__bits.html", null ],
     [ "count_of_trailing_ciphers_in_factorial_n", "dc/d2f/namespacecount__of__trailing__ciphers__in__factorial__n.html", null ],
     [ "cut_rod", "d8/d36/namespacecut__rod.html", null ],
@@ -146,6 +147,7 @@ var namespaces_dup =
     [ "MD5", "dd/d43/namespace_m_d5.html", null ],
     [ "median_search", "da/dd4/namespacemedian__search.html", null ],
     [ "merge_insertion", "de/d0a/namespacemerge__insertion.html", null ],
+    [ "midpoint_rule", "d9/daa/namespacemidpoint__rule.html", null ],
     [ "mincoins_topdown", "d5/db8/namespacemincoins__topdown.html", null ],
     [ "Minimum", "d4/d12/namespace_minimum.html", null ],
     [ "modular_division", "d1/d64/namespacemodular__division.html", null ],
@@ -157,7 +159,31 @@ var namespaces_dup =
     [ "n_queens_optimized", "d8/d14/namespacen__queens__optimized.html", null ],
     [ "ncr_modulo_p", "d4/db9/namespacencr__modulo__p.html", null ],
     [ "neural_network", "d0/d2e/namespaceneural__network.html", null ],
-    [ "numerical_methods", "d1/de0/namespacenumerical__methods.html", null ],
+    [ "numerical_methods", "d1/de0/namespacenumerical__methods.html", [
+      [ "false_position", null, [
+        [ "eq", "dd/d29/false__position_8cpp.html#a85a6ec58b5064d63d4f0df3854496713", null ],
+        [ "printRoot", "dd/d29/false__position_8cpp.html#a85cb7bfb90abc898e042d624372c5345", null ],
+        [ "regula_falsi", "dd/d29/false__position_8cpp.html#a7d69b49dc37da1c02b3ab8c7fe783494", null ]
+      ] ],
+      [ "midpoint_rule", null, [
+        [ "f", "df/d11/midpoint__integral__method_8cpp.html#a7ee8e824ef3e138a9a21883b26d97226", null ],
+        [ "g", "df/d11/midpoint__integral__method_8cpp.html#ae682ee71af44b1e9e884849cc6a6b040", null ],
+        [ "k", "df/d11/midpoint__integral__method_8cpp.html#ae9f66040f8e0ba73c1c741261c22a52a", null ],
+        [ "l", "df/d11/midpoint__integral__method_8cpp.html#ad53616fb4fa6880ae876bcba53365c51", null ],
+        [ "midpoint", "df/d11/midpoint__integral__method_8cpp.html#a7072493d1f0f8a91b2a71d4cc456c09c", null ]
+      ] ],
+      [ "runge_kutta", null, [
+        [ "rungeKutta", "d1/da6/rungekutta_8cpp.html#a7b9f40c7b5e9749cc550f19be3dc8856", null ]
+      ] ],
+      [ "simpson_method", null, [
+        [ "f", "d4/d18/composite__simpson__rule_8cpp.html#a4251b4df4748a0b9c43a48f61bdd2397", null ],
+        [ "g", "d4/d18/composite__simpson__rule_8cpp.html#a2f67508d5f392b0321772169342c98ad", null ],
+        [ "k", "d4/d18/composite__simpson__rule_8cpp.html#a1b74d828b33760094906797042b89442", null ],
+        [ "l", "d4/d18/composite__simpson__rule_8cpp.html#a6d8df83a6f26ce24a75d3b358b7f5b8a", null ]
+      ] ],
+      [ "FastFourierTransform", "d1/de0/namespacenumerical__methods.html#a158fd271b9a53e8f3f60b08b18857150", null ],
+      [ "InverseFastFourierTransform", "d1/de0/namespacenumerical__methods.html#aee56dc85997b8cd42bad71a5d6bd2d93", null ]
+    ] ],
     [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", "da/d6d/namespaceoperations__on__datastructures" ],
     [ "others", "d0/d6f/namespaceothers.html", "d0/d6f/namespaceothers" ],
     [ "palindrome_partitioning", "d5/d89/namespacepalindrome__partitioning.html", null ],
@@ -187,6 +213,7 @@ var namespaces_dup =
     [ "selection_sort_recursive", "df/d4a/namespaceselection__sort__recursive.html", null ],
     [ "SHA", "de/dd3/namespace_s_h_a.html", null ],
     [ "shortest_common_supersequence", "d3/deb/namespaceshortest__common__supersequence.html", null ],
+    [ "simpson_method", "d3/d6d/namespacesimpson__method.html", null ],
     [ "sorting", "d5/d91/namespacesorting.html", [
       [ "cycle_sort", null, [
         [ "cycleSort", "de/d07/cycle__sort_8cpp.html#ae79a9d247691fce0d655fce75f1c04fa", null ]
